@@ -1,175 +1,89 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SKEG-16&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🐉+Super+Saiyan+Developer+in+Training+🐉&descSize=20&descAlignY=60&descAlign=50&stroke=FF6F00&strokeWidth=3" />
-
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SKEG-16&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=System%20Online:%20Saiyan%20Developer%20Protocol&descSize=20&descAlignY=65&descAlign=50&stroke=FF6F00&strokeWidth=2](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SKEG-16&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=System%20Online:%20Saiyan%20Developer%20Protocol&descSize=20&descAlignY=65&descAlign=50&stroke=FF6F00&strokeWidth=2)" />
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=FF6F00&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=⚡+The+Legendary+Developer+has+ARRIVED!;🔥+POWER+LEVEL%3A+IT'S+OVER+9000!!!;🐉+SHENRON%2C+GRANT+ME+BUG-FREE+CODE!;💻+Super+Saiyan+Dev+from+Manila+🇵🇭;☕+Fueled+by+Senzu+Beans+%26+Instant+Noodles;🌙+404%3A+Sleep+Not+Found...+FINAL+FORM+ACTIVATED;⚡+I+am+the+hope+of+the+universe...+and+my+compiler)](https://git.io/typing-svg)
-
+  <img src="[https://komarev.com/ghpvc/?username=skeg-16&label=Profile%20Scans&color=FF6F00&style=for-the-badge](https://komarev.com/ghpvc/?username=skeg-16&label=Profile%20Scans&color=FF6F00&style=for-the-badge)" alt="Profile Visitors" />
 </div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=skeg-16&color=FF6F00&style=for-the-badge&label=⚡+POWER+LEVEL)
-![GitHub followers](https://img.shields.io/github/followers/skeg-16?style=for-the-badge&color=FF6F00&labelColor=0d0d0d&label=⚔️+Warriors)
-![GitHub stars](https://img.shields.io/github/stars/skeg-16?style=for-the-badge&color=FF6F00&labelColor=0d0d0d&label=⭐+Dragon+Balls)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐉 ARISE, ETERNAL DRAGON! 🐉
-
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="600" />
-
-> *"I am the Eternal Dragon! State your wish and it shall be granted!"*
-> 
-> **My wish: Bug-free code and infinite coffee ☕**
-
-</div>
-
----
-
-<img align="right" src="https://media.giphy.com/media/rbOOcla1GDYeJElXnT/giphy.gif" width="220"/>
-
-## ⚡ SCOUTER READINGS
-
-```python
-class ShawnKiefferGoyena:
-
-    name      = "Shawn Kieffer Goyena"
-    alias     = "skeg-16"
-    origin    = "Manila, Philippines 🇵🇭"
-    role      = "Student → Future Super Saiyan Dev"
-    power_lvl = "IT'S OVER 9000!!!"
-
-    training  = [
-        "📚 Studying like Gohan pre-Cell Games",
-        "💻 Writing code that sometimes works",
-        "🐛 Debugging with Ultra Instinct",
-        "🌙 Final Form activates at 3AM",
-    ]
-
-    weaknesses = [
-        "💀 Sleep (404 Not Found)",
-        "☕ Low on Senzu Beans",
-        "🔴 Red squiggly lines",
-    ]
-
-    goal      = "Super Saiyan Blue Engineer 💙"
-    status    = "Ascending... 🔥"
-```
-
-<br clear="right"/>
-
----
-
-## 🐉 THE 7 DRAGON BALLS — Tech Arsenal
-
-<div align="center">
-
-> *"Collect them all and any wish shall be granted..."*
-
 <br>
 
-**⭐ Languages**
+### 📟 SCOUTER READOUT: ENTITY PROFILE
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,c,kotlin&perline=7)](https://skillicons.dev)
+python
+class DeveloperState:
+    def __init__(self):
+        self.name = "Shawn Kieffer Goyena"
+        self.alias = "skeg-16"
+        self.location = "Manila, Philippines 🇵🇭"
+        self.role = "3rd-Year CS Student @ PLM & Future Systems Architect"
+        self.certifications = ["NC II Computer Systems Servicing"]
+        self.power_level = "Over 9000 (and scaling)"
 
-<br>
+    def get_training_regimen(self):
+        return {
+            "focus": "Algorithm optimization & Full-Stack Development",
+            "environment": "Hyperbolic Time Chamber (Late night coding sessions)",
+            "community": "PRO for PLM Computer Science Society"
+        }
 
-**⭐⭐ Databases**
+    def limit_break(self):
+        return "Consistently pushing to main until the build passes."
 
-[![Skills](https://skillicons.dev/icons?i=mysql,postgresql,supabase&perline=7)](https://skillicons.dev)
+if __name__ == "__main__":
+    shawn = DeveloperState()
+    shawn.limit_break()
+🐉 THE 7 DRAGON BALLS: TECH ARSENAL
+"Data collection complete. System optimized for the following environments."
 
-<br>
+⚡ Languages
 
-**⭐⭐⭐ Tools & Environment**
+<p align="left">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&perline=7)](https://skillicons.dev)
+💾 Databases & Infrastructure
 
-</div>
+<p align="left">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
----
+🛠️ Tools & Environments
 
-## 📊 POWER LEVEL SCANNER
+<p align="left">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
+🔬 HYPERBOLIC TIME CHAMBER: ACTIVE RESEARCH & PROJECTS
+Algorithmic Research: Enhancing TF-IDF Cosine Similarity for weighted skill-based resume screening & optimizing the Rabin-Karp algorithm for cross-lingual plagiarism detection.
+
+FinSight: Developing a comprehensive, integrated accounting and inventory system.
+
+Hardware Integration: Engineering an Arduino-based intruder lock-on and target tracking radar system.
+
+Language Design: Architecting and defining rules for a custom programming language named "CHUNGUS".
+
+Mobile Dev: Building multi-layout Android applications using Java.
+
+📊 COMBAT METRICS: GITHUB STATS
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=skeg-16&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=FF6F00&icon_color=FF6F00" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=skeg-16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=FF6F00&icon_color=FF6F00&text_color=777BB4&bg_color=00000000" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeg-16&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=FF6F00" height="175"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeg-16&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=FF6F00&text_color=777BB4&bg_color=00000000" height="175"/>
 </div>
 
----
-
-## 🔥 KI ENERGY — CURRENT STREAK
-
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=skeg-16&theme=radical&hide_border=true&ring=FF6F00&fire=FF6F00&currStreakLabel=FF6F00&sideLabels=FF6F00&dates=aaaaaa)
-
+<i>"It's not about the destination. It's about how many times you pushed to main at 3AM."</i>
 </div>
 
----
-
-## 🏆 TOURNAMENT OF POWER — Trophies
-
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=skeg-16&theme=radical&no-frame=true&row=1&column=6&margin-w=10)
-
-</div>
-
----
-
-## 📈 BATTLE HISTORY — Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skeg-16&theme=high-contrast&color=FF6F00&line=FF6F00&point=ffffff&hide_border=true&area=true&area_color=FF6F00)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 SNAKE EATS MY LAZY DAYS
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 🌐 HYPERBOLIC TIME CHAMBER — Find Me
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/g.shawnkieffergoyena)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shawn-kieffer-goyena-csswb-574866275)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skeg-16)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/14kdiJTpJO7c1i/giphy.gif" width="300"/>
-
-<br>
-
-*⚡ "It's not about the destination. It's about how many times you pushed to main at 3AM." — Vegeta, probably ⚡*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling&fontColor=FF6F00"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling&fontColor=FF6F00"/>
 </div>
