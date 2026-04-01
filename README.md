@@ -1,58 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0021,40:9d00ff,75:ff007f,100:0d0021&height=220&section=header&text=SKEG-16&fontSize=75&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Backend%20Developer%20%E2%80%94%20Forging%20Code%20Beyond%20Its%20Limits&descSize=15&descColor=ffb3de&descAlignY=62&animation=fadeIn" />
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1200&color=FF007F&center=true&vCenter=true&width=620&lines=A+warrior+does+not+fear+complexity.;Power+is+forged+through+consistency.;Every+commit+is+a+step+toward+mastery.;Exploring+new+limits+%E2%80%94+one+build+at+a+time." />
-</a>
-
-<br/>
-
-![](https://img.shields.io/badge/ROLE-Backend%20Developer-9d00ff?style=for-the-badge&labelColor=0d0021)
-![](https://img.shields.io/badge/STATUS-Student%20%2F%20Builder-ff007f?style=for-the-badge&labelColor=0d0021)
-![](https://img.shields.io/badge/ORIGIN-Philippines-ff007f?style=for-the-badge&labelColor=0d0021&logo=googlemaps&logoColor=white)
-![](https://komarev.com/ghpvc/?username=skeg-16&color=9d00ff&style=for-the-badge&label=VISITORS)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0021,50:9d00ff,100:ff007f&height=200&text=SKEG-16&fontAlign=70&fontAlignY=50&fontSize=65&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Code%20Architect%20%7C%20PH&descAlign=70&descAlignY=72&descSize=14&descColor=ffb3de&rotate=0" />
 
 </div>
 
----
+<div align="center">
 
-## `◈ SYSTEM PROFILE`
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=FF007F&center=true&vCenter=true&width=650&lines=Turning+ideas+into+scalable+systems+since+day+one.;Every+line+of+code+is+a+step+past+the+previous+limit.;Student+by+title.+Developer+by+discipline.;Building+in+silence+%E2%80%94+shipping+in+power." />
+</a>
 
-```yaml
-# ══════════════════════════════════════════════════════
-#   DEVELOPER PROFILE — skeg-16
-# ══════════════════════════════════════════════════════
+<br/><br/>
 
-name        : skeg-16
-role        : Backend Developer
-status      : Student | Builder | Learner
-origin      : Philippines 🇵🇭
+![Visitors](https://komarev.com/ghpvc/?username=skeg-16&style=for-the-badge&color=ff007f&label=⚡+PROFILE+VIEWS&labelColor=0d0021)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/skeg-16?style=for-the-badge&color=9d00ff&labelColor=0d0021&label=FOLLOWERS)
 
-philosophy  : >
-  Like a warrior who transcends each limit through relentless training,
-  I approach every project as a chance to push beyond the last.
-  Clean architecture. Scalable systems. No shortcuts.
+</div>
 
-current_arc :
-  - Building and shipping a full-scale web application
-  - Exploring deployment pipelines via Vercel
-  - Learning monetization strategies through Adsterra
-  - Deepening backend engineering principles
-
-power_level : [ STILL LOADING... ████████░░ ]
-# ══════════════════════════════════════════════════════
-```
+<br/>
 
 ---
 
-## `◈ TECH ARSENAL`
+### ◈ &nbsp; WHO AM I
+
+<table>
+  <tr>
+    <td width="55%">
+      <h4>🔮 &nbsp; The Warrior Behind the Terminal</h4>
+      <p>
+        I'm <strong>Shawn</strong> — a backend-focused developer from the Philippines, currently in my training arc.
+        I build systems from the ground up: APIs, databases, and deployments that hold under pressure.
+        My philosophy? <em>No shortcuts. No excuses. Just consistent output.</em>
+      </p>
+      <p>
+        Right now I'm deep in a full-stack web project while mastering deployment through <strong>Vercel</strong>
+        and exploring web monetization via <strong>Adsterra</strong>.
+        Each sprint brings me closer to the next power level.
+      </p>
+      <br/>
+      <p>
+        ⚔️ &nbsp; <strong>Role:</strong> Backend Developer <br/>
+        📍 &nbsp; <strong>Location:</strong> Philippines 🇵🇭 <br/>
+        🎓 &nbsp; <strong>Status:</strong> Student / Builder <br/>
+        🌐 &nbsp; <strong>Currently:</strong> Shipping. Learning. Leveling up. <br/>
+        ⚡ &nbsp; <strong>Creed:</strong> <em>"Power is earned, not given."</em>
+      </p>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeg-16&layout=compact&bg_color=0d0021&title_color=ff007f&text_color=ffb3de&border_color=9d00ff&hide_border=false&langs_count=8" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SPECIALTY-Backend%20Systems-9d00ff?style=flat-square&labelColor=0d0021" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/CURRENTLY-Building-ff007f?style=flat-square&labelColor=0d0021" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### ◈ &nbsp; TECH ARSENAL
 
 <div align="center">
 
-### — Languages —
+**[ Languages ]**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -61,77 +73,91 @@ power_level : [ STILL LOADING... ████████░░ ]
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### — Styling —
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**[ Frontend & Styling ]**
 
-### — Databases & Data —
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**[ Databases ]**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
-### — Cloud & Deployment —
+**[ Deployment ]**
+
 ![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=black)
 
 </div>
 
 ---
 
-## `◈ BATTLE STATISTICS`
+### ◈ &nbsp; BATTLE STATISTICS
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=skeg-16&show_icons=true&bg_color=0d0021&title_color=ff007f&icon_color=9d00ff&text_color=ffb3de&border_color=9d00ff&hide_border=false&count_private=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=skeg-16&show_icons=true&bg_color=0d0021&title_color=ff007f&icon_color=9d00ff&text_color=ffb3de&border_color=9d00ff&count_private=true&rank_icon=percentile" />
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeg-16&layout=compact&bg_color=0d0021&title_color=ff007f&text_color=ffb3de&border_color=9d00ff" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=skeg-16&background=0d0021&ring=ff007f&fire=9d00ff&currStreakLabel=ff007f&sideLabels=ffb3de&dates=777777&border=9d00ff&stroke=9d00ff" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=skeg-16&theme=radical&background=0d0021&ring=ff007f&fire=9d00ff&currStreakLabel=ff007f&sideLabels=ffb3de&dates=9d9d9d&border=9d00ff&stroke=9d00ff" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skeg-16&bg_color=0d0021&color=ffb3de&line=9d00ff&point=ff007f&area=true&area_color=9d00ff&border_color=9d00ff&hide_border=false)](https://github.com/skeg-16)
 
 </div>
 
 ---
 
-## `◈ FEATURED PROJECTS`
+### ◈ &nbsp; FEATURED PROJECTS
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=skeg-16&repo=YOUR-REPO-NAME&bg_color=0d0021&title_color=ff007f&icon_color=9d00ff&text_color=ffb3de&border_color=9d00ff)](https://github.com/skeg-16)
-
-> ⚠️ Replace `YOUR-REPO-NAME` with your actual repository name.
+<a href="https://github.com/skeg-16/FinSight">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=skeg-16&repo=FinSight&bg_color=0d0021&title_color=ff007f&icon_color=9d00ff&text_color=ffb3de&border_color=9d00ff&show_owner=true" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/skeg-16/omnikit">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=skeg-16&repo=omnikit&bg_color=0d0021&title_color=ff007f&icon_color=9d00ff&text_color=ffb3de&border_color=9d00ff&show_owner=true" />
+</a>
 
 </div>
 
 ---
 
-## `◈ ACTIVITY GRAPH`
+### ◈ &nbsp; CONNECT
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skeg-16&bg_color=0d0021&color=ffb3de&line=9d00ff&point=ff007f&area=true&hide_border=false&border_color=9d00ff)](https://github.com/skeg-16)
+<br/>
+
+<a href="https://www.linkedin.com/in/shawn-kieffer-goyena-csswb-574866275/">
+  <img src="https://img.shields.io/badge/LinkedIn-Shawn%20Kieffer%20Goyena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0021" />
+</a>
+&nbsp;
+<a href="https://www.facebook.com/g.zakirobbb">
+  <img src="https://img.shields.io/badge/Facebook-g.zakirobbb-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0021" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/zakirobbb/">
+  <img src="https://img.shields.io/badge/Instagram-zakirobbb-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0021" />
+</a>
+&nbsp;
+<a href="https://www.tiktok.com/@karrot_t">
+  <img src="https://img.shields.io/badge/TikTok-karrot__t-010101?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d0021" />
+</a>
+
+<br/><br/>
 
 </div>
 
 ---
 
-## `◈ CONNECT`
-
 <div align="center">
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@YOUR_TIKTOK)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20strongest%20warriors%20are%20not%20those%20who%20never%20fail%20—%20but%20those%20who%20rise%20every%20time%20they%20do.&author=skeg-16" />
 
 <br/>
 
-> *"The true measure of a warrior is not his power at its peak — but his discipline when no one is watching."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0021,40:9d00ff,75:ff007f,100:0d0021&height=130&section=footer&text=Keep+Building.+Keep+Growing.&fontSize=16&fontColor=ffb3de&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff007f,50:9d00ff,100:0d0021&height=100&section=footer&text=skeg-16%20%C2%B7%202025&fontSize=14&fontColor=ffb3de&fontAlign=80&fontAlignY=60&rotate=0" />
 
 </div>
