@@ -1,181 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24&height=260&section=header&text=SKEG-16&fontSize=100&fontColor=00D4FF&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Manila%2C%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descSize=17&descAlignY=64&descAlign=50&stroke=00D4FF&strokeWidth=2" />
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ffe5,100:7b00ff&height=200&section=header&text=skeg-16&fontSize=70&fontColor=00ffe5&fontAlignY=38&desc=Backend%20Developer%20%7C%20Code%20Warrior%20%7C%20Power%20Level%3A%20Over%209000&descAlignY=58&descSize=16&descColor=a0a0ff&animation=twinkling" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FFE5&center=true&vCenter=true&width=600&lines=A+Saiyan+doesn%27t+stop+at+bugs...+he+trains+harder.;Building+backends+that+break+power+levels.;Explorer+of+Vercel%2C+Supabase+%26+the+unknown.;It%27s+not+over+9000+yet...+still+learning." />
+</a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&pause=1200&color=00D4FF&center=true&vCenter=true&width=760&height=45&lines=❯+Shawn+Kieffer+Goyena+%7C+Student+Developer;❯+Building+full-stack+systems+that+scale;❯+Databases+%7C+Clean+Code+%7C+Architecture;❯+Power+level+rising+—+commit+by+commit+🔥)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=skeg-16&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/skeg-16?style=for-the-badge&color=00D4FF&labelColor=0D1117&label=FOLLOWERS)
-&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/skeg-16?style=for-the-badge&color=00D4FF&labelColor=0D1117&label=STARS)
+<!-- BADGES -->
+![Status](https://img.shields.io/badge/STATUS-TRAINING_ARC-00ffe5?style=for-the-badge&logo=dragonball&logoColor=black)
+![Mode](https://img.shields.io/badge/MODE-STUDENT_/_BUILDER-7b00ff?style=for-the-badge)
+![Location](https://img.shields.io/badge/LOCATION-PHILIPPINES-ff006e?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
-<br/>
-
 ---
 
-## ❯ whoami
+## ⚡ `> INITIATING SAIYAN PROFILE...`
 
-```zsh
-  🔴 🟡 🟢   skeg-16@dev  ~/portfolio  zsh
- ─────────────────────────────────────────────────────────────────────
+```bash
+$ whoami
+→ skeg-16
 
-  ❯ cat about.json
+$ cat about.txt
+→ Backend developer in training. Currently forging new power levels
+  through web apps, cloud deployment, and clean server-side logic.
+  Like any true Saiyan — every defeat is just the next transformation.
 
-  {
-    "name"       :  "Shawn Kieffer Goyena",
-    "alias"      :  "skeg-16",
-    "location"   :  "Manila, Philippines 🇵🇭",
-    "role"       :  "Student  →  Full-Stack Developer",
-    "status"     :  "Ascending — ETA: Soon™  🔥",
-
-    "focus"      :  [
-                      "Full-Stack Web Development",
-                      "Database Design & Architecture",
-                      "System Design & Clean Code",
-                      "Problem Solving at 3AM 🌙"
-                    ],
-
-    "open_to"    :  [
-                      "Project Collaborations",
-                      "Open Source Contributions",
-                      "Internships & Dev Opportunities"
-                    ],
-
-    "philosophy" :  "The strongest version of yourself is built
-                     in the dark — failed builds, slow progress,
-                     and the grind you almost gave up on."
-  }
-
-  ❯ _
+$ echo $MOTTO
+→ "My power level? Still loading... but it's definitely over 9000."
 ```
 
-<br/>
-
 ---
 
-## ❯ ls ./tech-stack
+## 🛠️ `> TECH ARSENAL`
 
 <div align="center">
 
-<br/>
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**[ Languages ]**
+### 🎨 Frontend / Styling
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,c,kotlin&perline=7&theme=dark)](https://skillicons.dev)
+### 🗄️ Databases & Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
-<br/>
-
-**[ Databases ]**
-
-[![Skills](https://skillicons.dev/icons?i=mysql,postgresql,supabase&perline=7&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-**[ Tools & Environment ]**
-
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&perline=7&theme=dark)](https://skillicons.dev)
-
-<br/>
+### ☁️ Cloud & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## ❯ cat ./stats.log
+## 🌐 `> CURRENT MISSION`
 
-<div align="center">
+```python
+class Skeg16:
+    def __init__(self):
+        self.name        = "skeg-16"
+        self.role        = "Backend Developer"
+        self.status      = "Student / Builder"
+        self.training    = ["Vercel Deployment", "Adsterra Integration", "Web App Architecture"]
+        self.goal        = "Ship projects. Level up. Repeat."
 
-<br/>
+    def current_arc(self):
+        return "⚙️  Building a full web app — backend, deployment & monetization."
 
-<img src="https://github-readme-stats.vercel.app/api?username=skeg-16&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00D4FF&icon_color=00D4FF&bg_color=0D1117&text_color=C9D1D9&ring_color=00D4FF" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeg-16&layout=compact&hide_border=true&langs_count=8&title_color=00D4FF&bg_color=0D1117&text_color=C9D1D9" height="175"/>
-
-<br/><br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=skeg-16&theme=tokyonight-duo&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&background=0D1117&dates=555555&stroke=00D4FF)
-
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skeg-16&theme=high-contrast&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&area=true&area_color=00D4FF&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-</div>
-
----
-
-## ❯ ls ./trophies
-
-<div align="center">
-
-<br/>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=skeg-16&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
-
-<br/>
-
-</div>
-
----
-
-## ❯ ls ./projects
-
-<div align="center">
-
-<br/>
-
-<!-- Replace YOUR-REPO-1 through YOUR-REPO-4 with your actual repository names -->
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skeg-16&repo=YOUR-REPO-1&hide_border=true&title_color=00D4FF&icon_color=00D4FF&bg_color=0D1117&text_color=C9D1D9"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skeg-16&repo=YOUR-REPO-2&hide_border=true&title_color=00D4FF&icon_color=00D4FF&bg_color=0D1117&text_color=C9D1D9"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skeg-16&repo=YOUR-REPO-3&hide_border=true&title_color=00D4FF&icon_color=00D4FF&bg_color=0D1117&text_color=C9D1D9"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skeg-16&repo=YOUR-REPO-4&hide_border=true&title_color=00D4FF&icon_color=00D4FF&bg_color=0D1117&text_color=C9D1D9"/>
-
-<br/>
-
-</div>
-
----
-
-## ❯ cat ./connect.sh
-
-```zsh
-  🔴 🟡 🟢   skeg-16@dev  ~/connect  zsh
- ─────────────────────────────────────────────────────────────────────
-
-  ❯ echo "Open to collabs, freelance, and dev conversations."
-
-  ❯ open --social facebook   →   fb.com/g.shawnkieffergoyena
-  ❯ open --social linkedin   →   linkedin.com/in/shawn-kieffer-goyena-csswb-574866275
-  ❯ open --social github     →   github.com/skeg-16
-
-  ❯ _
+    def power_level(self):
+        return "Still counting... 📈"
 ```
 
+---
+
+## 📊 `> BATTLE STATS`
+
 <div align="center">
 
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=skeg-16&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=00ffe5&icon_color=7b00ff&text_color=ffffff&border_color=00ffe5&hide_border=false&count_private=true" />
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/g.shawnkieffergoyena)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shawn-kieffer-goyena-csswb-574866275)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skeg-16)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeg-16&layout=compact&theme=radical&bg_color=0d0d0d&title_color=00ffe5&text_color=ffffff&border_color=00ffe5" />
 
 <br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=skeg-16&theme=radical&background=0d0d0d&ring=00ffe5&fire=ff006e&currStreakLabel=7b00ff&sideLabels=00ffe5&dates=aaaaaa&border=00ffe5" />
+
+</div>
+
+---
+
+## 🚀 `> FEATURED PROJECTS`
+
+<div align="center">
+
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=skeg-16&repo=YOUR-REPO-NAME-HERE&theme=radical&bg_color=0d0d0d&title_color=00ffe5&icon_color=7b00ff&text_color=ffffff&border_color=00ffe5)](https://github.com/skeg-16)
+
+> ⚠️ *Replace `YOUR-REPO-NAME-HERE` with your actual repo name above!*
+
+</div>
+
+---
+
+## 🔗 `> CONNECT WITH THE WARRIOR`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@YOUR_TIKTOK)
 
 </div>
 
@@ -183,6 +128,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer&animation=twinkling"/>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b00ff,50:00ffe5,100:0d0d0d&height=120&section=footer&text=Keep+Training.+Keep+Building.&fontSize=18&fontColor=00ffe5&fontAlignY=65" />
+
+![Visitor Count](https://komarev.com/ghpvc/?username=skeg-16&color=00ffe5&style=for-the-badge&label=POWER+SCOUTS)
 
 </div>
