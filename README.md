@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SKEG-16&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🐉+Super+Saiyan+Developer+in+Training+🐉&descSize=20&descAlignY=60&descAlign=50&stroke=FF6F00&strokeWidth=3" />
