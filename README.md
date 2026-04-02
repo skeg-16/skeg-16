@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24&height=260&section=header&text=SKEG-16&fontSize=100&fontColor=00D4FF&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Manila%2C%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descSize=17&descAlignY=64&descAlign=50&stroke=00D4FF&strokeWidth=2" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=39D353&center=true&vCenter=true&width=760&height=60&lines=skeg-16)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=39D353&center=true&vCenter=true&width=760&height=40&lines=Full-Stack+Developer+%7C+Manila%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD;Building+full-stack+systems+that+scale;Databases+%7C+Clean+Code+%7C+Architecture)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&pause=1200&color=00D4FF&center=true&vCenter=true&width=760&height=45&lines=❯+Shawn+Kieffer+Goyena+%7C+Student+Developer;❯+Building+full-stack+systems+that+scale;❯+Databases+%7C+Clean+Code+%7C+Architecture;❯+Power+level+rising+—+commit+by+commit+🔥)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=skeg-16&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=skeg-16&color=39D353&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/skeg-16?style=for-the-badge&color=00D4FF&labelColor=0D1117&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/skeg-16?style=for-the-badge&color=39D353&labelColor=0D1117&label=FOLLOWERS)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/skeg-16?style=for-the-badge&color=00D4FF&labelColor=0D1117&label=STARS)
+![GitHub stars](https://img.shields.io/github/stars/skeg-16?style=for-the-badge&color=39D353&labelColor=0D1117&label=STARS)
 
 </div>
 
@@ -94,55 +92,17 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=skeg-16&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00D4FF&icon_color=00D4FF&bg_color=0D1117&text_color=C9D1D9&ring_color=00D4FF" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=skeg-16&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=39D353&icon_color=39D353&bg_color=0D1117&text_color=C9D1D9&ring_color=39D353" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeg-16&layout=compact&hide_border=true&langs_count=8&title_color=00D4FF&bg_color=0D1117&text_color=C9D1D9" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeg-16&layout=compact&hide_border=true&langs_count=8&title_color=39D353&bg_color=0D1117&text_color=C9D1D9" height="175"/>
 
 <br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=skeg-16&theme=tokyonight-duo&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&background=0D1117&dates=555555&stroke=00D4FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=skeg-16&theme=tokyonight-duo&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&background=0D1117&dates=555555&stroke=39D353)
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skeg-16&theme=high-contrast&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&area=true&area_color=00D4FF&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-</div>
-
----
-
-## ❯ ls ./trophies
-
-<div align="center">
-
-<br/>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=skeg-16&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
-
-<br/>
-
-</div>
-
----
-
-## ❯ ls ./projects
-
-<div align="center">
-
-<br/>
-
-<!-- Replace YOUR-REPO-1 through YOUR-REPO-4 with your actual repository names -->
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skeg-16&repo=YOUR-REPO-1&hide_border=true&title_color=00D4FF&icon_color=00D4FF&bg_color=0D1117&text_color=C9D1D9"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skeg-16&repo=YOUR-REPO-2&hide_border=true&title_color=00D4FF&icon_color=00D4FF&bg_color=0D1117&text_color=C9D1D9"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skeg-16&repo=YOUR-REPO-3&hide_border=true&title_color=00D4FF&icon_color=00D4FF&bg_color=0D1117&text_color=C9D1D9"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skeg-16&repo=YOUR-REPO-4&hide_border=true&title_color=00D4FF&icon_color=00D4FF&bg_color=0D1117&text_color=C9D1D9"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skeg-16&theme=high-contrast&color=39D353&line=39D353&point=ffffff&hide_border=true&area=true&area_color=39D353&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
@@ -169,11 +129,11 @@
 
 <br/>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/g.shawnkieffergoyena)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/g.shawnkieffergoyena)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shawn-kieffer-goyena-csswb-574866275)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shawn-kieffer-goyena-csswb-574866275)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skeg-16)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skeg-16)
 
 <br/>
 
@@ -182,7 +142,7 @@
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer&animation=twinkling"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2"/>
+  <br/>
+  <sub><code>/* Keep building. Keep pushing. The diff is always in your favor. */</code></sub>
 </div>
