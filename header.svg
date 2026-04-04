@@ -1,0 +1,109 @@
+<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080E1A"/>
+      <stop offset="50%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#080E1A"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7DD3FC"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#7DD3FC"/>
+    </linearGradient>
+    <linearGradient id="fadeLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="fadeRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="topLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-15%" y="-30%" width="130%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="dotGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="dotGrid" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="15" cy="15" r="0.8" fill="#38BDF8" opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <!-- Base background -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <!-- Dot grid overlay -->
+  <rect width="900" height="200" fill="url(#dotGrid)"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="900" height="1.5" fill="url(#topLine)"/>
+
+  <!-- Corner brackets — top left -->
+  <path d="M 28 22 L 28 54 M 28 22 L 60 22" stroke="#38BDF8" stroke-width="1.8" fill="none" stroke-linecap="square" opacity="0.75"/>
+  <!-- Corner brackets — top right -->
+  <path d="M 872 22 L 872 54 M 872 22 L 840 22" stroke="#38BDF8" stroke-width="1.8" fill="none" stroke-linecap="square" opacity="0.75"/>
+  <!-- Corner brackets — bottom left -->
+  <path d="M 28 178 L 28 146 M 28 178 L 60 178" stroke="#38BDF8" stroke-width="1.8" fill="none" stroke-linecap="square" opacity="0.75"/>
+  <!-- Corner brackets — bottom right -->
+  <path d="M 872 178 L 872 146 M 872 178 L 840 178" stroke="#38BDF8" stroke-width="1.8" fill="none" stroke-linecap="square" opacity="0.75"/>
+
+  <!-- Corner dots -->
+  <circle cx="28" cy="22" r="3" fill="#38BDF8" opacity="0.9" filter="url(#dotGlow)"/>
+  <circle cx="872" cy="22" r="3" fill="#38BDF8" opacity="0.9" filter="url(#dotGlow)"/>
+  <circle cx="28" cy="178" r="3" fill="#38BDF8" opacity="0.9" filter="url(#dotGlow)"/>
+  <circle cx="872" cy="178" r="3" fill="#38BDF8" opacity="0.9" filter="url(#dotGlow)"/>
+
+  <!-- Main title -->
+  <text
+    x="450" y="114"
+    font-family="'Courier New', Courier, monospace"
+    font-size="76"
+    font-weight="900"
+    text-anchor="middle"
+    letter-spacing="14"
+    fill="url(#titleGrad)"
+    filter="url(#glow)">SKEG-16</text>
+
+  <!-- Blinking cursor -->
+  <rect x="652" y="52" width="4.5" height="68" fill="#38BDF8" rx="1" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Subtitle divider lines -->
+  <line x1="90" y1="143" x2="270" y2="143" stroke="url(#fadeLeft)" stroke-width="1"/>
+  <line x1="630" y1="143" x2="810" y2="143" stroke="url(#fadeRight)" stroke-width="1"/>
+
+  <!-- Subtitle text -->
+  <text
+    x="450" y="147"
+    font-family="'Courier New', Courier, monospace"
+    font-size="11"
+    font-weight="400"
+    text-anchor="middle"
+    letter-spacing="5"
+    fill="#475569">FULL-STACK DEVELOPER  ·  MANILA, PH</text>
+
+  <!-- Bottom pulsing accent line -->
+  <rect x="0" y="198" width="900" height="2" fill="url(#topLine)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Ambient accent glows -->
+  <circle cx="150" cy="100" r="1.5" fill="#38BDF8" opacity="0.18"/>
+  <circle cx="750" cy="90" r="1.5" fill="#38BDF8" opacity="0.18"/>
+  <circle cx="85" cy="145" r="1" fill="#38BDF8" opacity="0.12"/>
+  <circle cx="815" cy="55" r="1" fill="#38BDF8" opacity="0.12"/>
+</svg>
