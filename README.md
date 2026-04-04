@@ -231,6 +231,14 @@ Last Updated on 04/04/2026 16:39:01 UTC
 
 <br/>
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL_HERE)
+&nbsp;
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](YOUR_TIKTOK_URL_HERE)
+&nbsp;
+[![Facebook Page](https://img.shields.io/badge/Facebook_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FB_PAGE_URL_HERE)
+
+<br/>
+
 </div>
 
 <div align="center">
