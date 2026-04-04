@@ -1,16 +1,16 @@
 <svg viewBox="0 0 900 24" xmlns="http://www.w3.org/2000/svg" width="100%">
   <defs>
     <linearGradient id="left" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0.55"/>
     </linearGradient>
     <linearGradient id="right" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <line x1="0" y1="12" x2="432" y2="12" stroke="url(#left)" stroke-width="1.2"/>
-  <polygon points="450,4 460,12 450,20 440,12" fill="none" stroke="#38BDF8" stroke-width="1.5" opacity="0.75"/>
-  <circle cx="450" cy="12" r="2.5" fill="#38BDF8" opacity="0.4"/>
+  <polygon points="450,4 460,12 450,20 440,12" fill="none" stroke="#A855F7" stroke-width="1.5" opacity="0.75"/>
+  <circle cx="450" cy="12" r="2.5" fill="#A855F7" opacity="0.4"/>
   <line x1="468" y1="12" x2="900" y2="12" stroke="url(#right)" stroke-width="1.2"/>
 </svg>
