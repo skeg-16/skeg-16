@@ -16,9 +16,7 @@
 
 <br/>
 
----
-
-<img src="https://img.shields.io/badge/◈_ABOUT_ME-A855F7?style=for-the-badge&labelColor=3B0764" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20ABOUT%20ME&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
 
 <br/>
 
@@ -51,34 +49,32 @@ open_to:
 
 </td></tr></table>
 
----
-
-<img src="https://img.shields.io/badge/◈_TECH_STACK-A855F7?style=for-the-badge&labelColor=3B0764" />
-
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20TECH%20STACK&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
+
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Languages-3B0764?style=flat-square&labelColor=3B0764" />
+![Languages](https://img.shields.io/badge/Languages-3B0764?style=flat-square)
 
 [![Languages](https://skillicons.dev/icons?i=html,css,js,python,java,c,kotlin&theme=dark&perline=7)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Databases-3B0764?style=flat-square&labelColor=3B0764" />
+![Databases](https://img.shields.io/badge/Databases-3B0764?style=flat-square)
 
 [![Databases](https://skillicons.dev/icons?i=mysql,postgresql,supabase&theme=dark&perline=7)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Tools_%26_Environment-3B0764?style=flat-square&labelColor=3B0764" />
+![Tools](https://img.shields.io/badge/Tools%20%26%20Environment-3B0764?style=flat-square)
 
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
 
----
-
-<img src="https://img.shields.io/badge/◈_GITHUB_STATS-A855F7?style=for-the-badge&labelColor=3B0764" />
-
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20GITHUB%20STATS&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
+
 <br/>
 
 <div align="center">
@@ -93,11 +89,10 @@ open_to:
 
 </div>
 
----
-
-<img src="https://img.shields.io/badge/◈_CONTRIBUTION_ACTIVITY-A855F7?style=for-the-badge&labelColor=3B0764" />
-
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20CONTRIBUTION%20ACTIVITY&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
+
 <br/>
 
 <div align="center">
@@ -108,20 +103,19 @@ open_to:
 </picture>
 </div>
 
----
+<br/>
 
-<img src="https://img.shields.io/badge/◈_CODING_ACTIVITY-A855F7?style=for-the-badge&labelColor=3B0764" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20CODING%20ACTIVITY&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
 
 <br/>
 
 <!--START_SECTION:waka-->
-<br/>
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-A855F7?style=flat-square&labelColor=1A0F2E)
 &nbsp;
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-87-A855F7?style=flat-square&labelColor=1A0F2E)
 &nbsp;
-![Night Owl](https://img.shields.io/badge/🦉%20Night%20Owl-1A0F2E?style=flat-square&labelColor=1A0F2E&color=A855F7)
+![Night Owl](https://img.shields.io/badge/🦉%20Night%20Owl-A855F7?style=flat-square&labelColor=1A0F2E)
 
 ```text
 🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
@@ -130,7 +124,7 @@ open_to:
 🌙 Night                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 %
 ```
 
-![Most Active](https://img.shields.io/badge/📅%20Most%20Active%20Day-Wednesday-A855F7?style=flat-square&labelColor=1A0F2E)
+![Most Active](https://img.shields.io/badge/📅%20Most%20Active-Wednesday-A855F7?style=flat-square&labelColor=1A0F2E)
 
 ```text
 Monday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.72 %
@@ -143,20 +137,19 @@ Sunday                   12 commits          ██░░░░░░░░░�
 ```
 
 ```text
-💬 Languages:       No Activity Tracked This Week
-🔥 Editor:          No Activity Tracked This Week
-🐱‍💻 Project:        No Activity Tracked This Week
-💻 OS:              No Activity Tracked This Week
+💬 Languages:    No Activity Tracked This Week
+🔥 Editor:       No Activity Tracked This Week
+🐱‍💻 Project:     No Activity Tracked This Week
+💻 OS:           No Activity Tracked This Week
 ```
 
 Last Updated on 04/04/2026 16:39:01 UTC
 <!--END_SECTION:waka-->
 
----
-
-<img src="https://img.shields.io/badge/◈_NOW_PLAYING-A855F7?style=for-the-badge&labelColor=3B0764" />
-
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20NOW%20PLAYING&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
+
 <br/>
 
 <div align="center">
@@ -165,14 +158,15 @@ Last Updated on 04/04/2026 16:39:01 UTC
 
 </div>
 
----
-
-<img src="https://img.shields.io/badge/◈_CONNECT-A855F7?style=for-the-badge&labelColor=3B0764" />
-
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20CONNECT&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
+
 <br/>
 
 <div align="center">
+
+<p>Open to collaborations, freelance projects, and professional conversations.<br/>Let's build something meaningful.</p>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/g.shawnkieffergoyena)
 &nbsp;
