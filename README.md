@@ -203,7 +203,8 @@ Last Updated on 04/04/2026 16:39:01 UTC
 
 <br/>
 
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID)] (https://spotify-recently-played-readme.vercel.app/api?user=313yvdam4tmxx53ypd7gwvxfkt7i)
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=313yvdam4tmxx53ypd7gwvxfkt7i)](https://spotify-recently-played-readme.vercel.app/api?user=313yvdam4tmxx53ypd7gwvxfkt7i)
+
 <br/>
 
 </div>
