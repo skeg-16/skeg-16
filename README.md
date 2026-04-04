@@ -14,22 +14,25 @@
 
 </div>
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+<br/>
 
-## &nbsp;About Me
+<!---------- ABOUT ---------->
+<img src="https://img.shields.io/badge/◈%20ABOUT%20ME-A855F7?style=for-the-badge&logoColor=white&labelColor=1A0F2E&color=1A0F2E" />
+<img src="https://img.shields.io/badge/-A855F7?style=for-the-badge&logoColor=white&labelColor=A855F7&color=A855F7&label=" width="60"/>
 
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="8"><tr>
-<td width="55%" valign="top">
+<br/>
 
-**Shawn Kieffer Goyena** — CS student from Manila, PH, working toward becoming a full-stack developer. Focused on writing clean, purposeful code and understanding systems from the ground up.
+<table border="0" cellspacing="0" cellpadding="10"><tr>
+<td width="54%" valign="top">
+
+**Shawn Kieffer Goyena** — CS student from Manila, PH working toward full-stack development. I care about clean code, solid architecture, and building things that actually make sense.
 
 Open to collaborations, internships, and dev roles.
 
 > *"The strongest version of yourself is built in the dark — failed builds, slow progress, and the grind you almost gave up on."*
 
 </td>
-<td width="45%" valign="top">
+<td width="46%" valign="top">
 
 ```yaml
 alias:     skeg-16
@@ -47,55 +50,75 @@ open_to:
 
 </td>
 </tr></table>
-</div>
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+<br/>
 
-## &nbsp;Tech Stack
+<!---------- TECH STACK ---------->
+<img src="https://img.shields.io/badge/◈%20TECH%20STACK-A855F7?style=for-the-badge&logoColor=white&labelColor=1A0F2E&color=1A0F2E" />
+<img src="https://img.shields.io/badge/-A855F7?style=for-the-badge&logoColor=white&labelColor=A855F7&color=A855F7&label=" width="60"/>
+
+<br/>
 
 <div align="center">
 
-**Languages** &nbsp;·&nbsp; **Databases** &nbsp;·&nbsp; **Tools**
+![Languages](https://img.shields.io/badge/Languages-7C3AED?style=flat-square&logoColor=white)
+&nbsp;
+![Databases](https://img.shields.io/badge/Databases-7C3AED?style=flat-square&logoColor=white)
+&nbsp;
+![Tools](https://img.shields.io/badge/Tools%20%26%20Env-7C3AED?style=flat-square&logoColor=white)
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,c,kotlin,mysql,postgresql,supabase,git,github,vscode,linux&perline=7&theme=dark)](https://skillicons.dev)
 
 </div>
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+<br/>
 
-## &nbsp;GitHub Stats
+<!---------- GITHUB STATS ---------->
+<img src="https://img.shields.io/badge/◈%20GITHUB%20STATS-A855F7?style=for-the-badge&logoColor=white&labelColor=1A0F2E&color=1A0F2E" />
+<img src="https://img.shields.io/badge/-A855F7?style=for-the-badge&logoColor=white&labelColor=A855F7&color=A855F7&label=" width="60"/>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=skeg-16&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=A855F7&icon_color=A855F7&bg_color=0F0A1E&text_color=CBD5E1&ring_color=A855F7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=skeg-16&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=A855F7&icon_color=A855F7&bg_color=0F0A1E&text_color=CBD5E1&ring_color=A855F7" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeg-16&layout=compact&hide_border=true&langs_count=8&title_color=A855F7&bg_color=0F0A1E&text_color=CBD5E1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeg-16&layout=compact&hide_border=true&langs_count=8&title_color=A855F7&bg_color=0F0A1E&text_color=CBD5E1" height="160"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=skeg-16&theme=tokyonight-duo&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&background=0F0A1E&dates=64748B&stroke=1A0F2E)
+<img src="https://streak-stats.demolab.com?user=skeg-16&theme=tokyonight-duo&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&background=0F0A1E&dates=64748B&stroke=1A0F2E"/>
 
 </div>
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+<br/>
 
-## &nbsp;Contribution Snake
+<!---------- ACTIVITY ---------->
+<img src="https://img.shields.io/badge/◈%20ACTIVITY-A855F7?style=for-the-badge&logoColor=white&labelColor=1A0F2E&color=1A0F2E" />
+<img src="https://img.shields.io/badge/-A855F7?style=for-the-badge&logoColor=white&labelColor=A855F7&color=A855F7&label=" width="60"/>
+
+<br/>
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 </div>
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+<br/>
 
-## &nbsp;Coding Activity
+<!---------- WAKATIME ---------->
+<img src="https://img.shields.io/badge/◈%20CODING%20ACTIVITY-A855F7?style=for-the-badge&logoColor=white&labelColor=1A0F2E&color=1A0F2E" />
+<img src="https://img.shields.io/badge/-A855F7?style=for-the-badge&logoColor=white&labelColor=A855F7&color=A855F7&label=" width="60"/>
+
+<br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-A855F7?style=flat&labelColor=1A0F2E)
+&nbsp;
+![Profile Views](http://img.shields.io/badge/Profile%20Views-87-A855F7?style=flat&labelColor=1A0F2E)
 
-**I'm a Night 🦉**
+**🦉 I'm a Night Owl**
 
 ```text
 🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
@@ -104,7 +127,7 @@ open_to:
 🌙 Night                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
 ```
 
-📅 **I'm Most Productive on Wednesday**
+📅 **Most Productive on Wednesday**
 
 ```text
 Monday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
@@ -116,30 +139,25 @@ Saturday                 10 commits          █░░░░░░░░░░�
 Sunday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 ```
 
-📊 **This Week I Spent My Time On**
-
 ```text
 🕑︎ Time Zone: Asia/Manila
 
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+💬 Programming Languages: No Activity Tracked This Week
+🔥 Editors:               No Activity Tracked This Week
+🐱‍💻 Projects:             No Activity Tracked This Week
+💻 Operating System:      No Activity Tracked This Week
 ```
 
 Last Updated on 04/04/2026 16:39:01 UTC
 <!--END_SECTION:waka-->
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+<br/>
 
-## &nbsp;Now Playing
+<!---------- NOW PLAYING ---------->
+<img src="https://img.shields.io/badge/◈%20NOW%20PLAYING-A855F7?style=for-the-badge&logoColor=white&labelColor=1A0F2E&color=1A0F2E" />
+<img src="https://img.shields.io/badge/-A855F7?style=for-the-badge&logoColor=white&labelColor=A855F7&color=A855F7&label=" width="60"/>
+
+<br/>
 
 <div align="center">
 
@@ -147,9 +165,13 @@ Last Updated on 04/04/2026 16:39:01 UTC
 
 </div>
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+<br/>
 
-## &nbsp;Connect
+<!---------- CONNECT ---------->
+<img src="https://img.shields.io/badge/◈%20CONNECT-A855F7?style=for-the-badge&logoColor=white&labelColor=1A0F2E&color=1A0F2E" />
+<img src="https://img.shields.io/badge/-A855F7?style=for-the-badge&logoColor=white&labelColor=A855F7&color=A855F7&label=" width="60"/>
+
+<br/>
 
 <div align="center">
 
@@ -167,11 +189,8 @@ Last Updated on 04/04/2026 16:39:01 UTC
 &nbsp;
 [![Facebook Page](https://img.shields.io/badge/Facebook_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FB_PAGE_URL_HERE)
 
-</div>
+<br/>
 
-<div align="center">
-  <img src="./divider.svg" width="100%"/>
-  <br/>
-  <sub>Built with precision. Maintained with discipline.</sub>
-  <br/><br/>
+![Footer](https://img.shields.io/badge/Built%20with%20precision.%20Maintained%20with%20discipline.-1A0F2E?style=flat-square&labelColor=1A0F2E&color=1A0F2E&logoColor=A855F7)
+
 </div>
