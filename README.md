@@ -1,77 +1,71 @@
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║  SETUP REQUIRED — READ BEFORE PASTING                   ║
+  ║                                                          ║
+  ║  1. Place header.svg and divider.svg in your repo root  ║
+  ║  2. Snake   → see .github/workflows/snake.yml           ║
+  ║  3. WakaTime → see .github/workflows/waka.yml           ║
+  ║  4. Spotify  → deploy github.com/novatorem/novatorem    ║
+  ║     then replace YOUR_VERCEL_URL below                  ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0F172A&height=200&section=header&text=SKEG-16&fontSize=90&fontColor=38BDF8&animation=fadeIn&fontAlignY=45&stroke=38BDF8&strokeWidth=1.5" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=15&pause=1500&color=38BDF8&center=true&vCenter=true&width=760&height=35&lines=Shawn+Kieffer+Goyena+%7C+Full-Stack+Developer;Manila%2C+Philippines+%7C+Student+%E2%86%92+Developer;Databases+%7C+Clean+Code+%7C+System+Architecture;Building+with+purpose+%E2%80%94+one+commit+at+a+time)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=skeg-16&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/skeg-16?style=for-the-badge&color=38BDF8&labelColor=0F172A&label=FOLLOWERS)
-&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/skeg-16?style=for-the-badge&color=38BDF8&labelColor=0F172A&label=STARS)
-
+  <img src="./header.svg" width="100%" alt="SKEG-16"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&pause=2000&color=38BDF8&center=true&vCenter=true&width=700&height=30&lines=Full-Stack+Developer+%7C+Manila%2C+PH;Clean+Code+%7C+Database+Design+%7C+Architecture;Building+with+purpose+%E2%80%94+one+commit+at+a+time)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=skeg-16&color=38BDF8&style=flat-square&label=VIEWS)
+&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/skeg-16?style=flat-square&color=38BDF8&labelColor=1E293B&label=FOLLOWERS)
+&nbsp;&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/skeg-16?style=flat-square&color=38BDF8&labelColor=1E293B&label=STARS)
+
+</div>
+
+<br/><br/>
+
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 <br/>
 
 ## &nbsp;About Me
 
-<br/>
+```
+$ whoami
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+  ┌─────────────────────────────────────────────────────────────┐
+  │  Shawn Kieffer Goyena  ·  skeg-16  ·  Manila, Philippines  │
+  │  Computer Science Student → Aspiring Full-Stack Developer   │
+  └─────────────────────────────────────────────────────────────┘
 
-**`Identity`**
+$ cat focus.txt
 
-&nbsp;&nbsp;👤 &nbsp; Shawn Kieffer Goyena  
-&nbsp;&nbsp;🏷️ &nbsp; `skeg-16`  
-&nbsp;&nbsp;📍 &nbsp; Manila, Philippines  
-&nbsp;&nbsp;🎯 &nbsp; Computer Science Student — Aspiring Full-Stack Developer  
+  ▸  Full-Stack Web Development
+  ▸  Database Design & Architecture
+  ▸  System Design & Clean Code Practices
+  ▸  Software Engineering Fundamentals
 
-</td>
-    <td width="50%" valign="top">
+$ cat availability.txt
 
-**`Focus Areas`**
+  Open to: Project Collaborations · Open Source · Internships & Dev Roles
 
-&nbsp;&nbsp;▸ &nbsp; Full-Stack Web Development  
-&nbsp;&nbsp;▸ &nbsp; Database Design & Architecture  
-&nbsp;&nbsp;▸ &nbsp; System Design & Clean Code Practices  
-&nbsp;&nbsp;▸ &nbsp; Software Engineering Fundamentals  
+$ cat philosophy.txt
 
-</td>
-  </tr>
-  <tr>
-    <td valign="top">
-
-**`Open To`**
-
-&nbsp;&nbsp;✦ &nbsp; Project Collaborations  
-&nbsp;&nbsp;✦ &nbsp; Open Source Contributions  
-&nbsp;&nbsp;✦ &nbsp; Internships & Development Opportunities  
-
-</td>
-    <td valign="top">
-
-**`Philosophy`**
-
-> *"The strongest version of yourself is built in the dark — failed builds, slow progress, and the grind you almost gave up on."*
-
-</td>
-  </tr>
-</table>
+  "The strongest version of yourself is built in the dark —
+   failed builds, slow progress, and the grind you almost gave up on."
+```
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 <br/>
 
@@ -101,7 +95,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 <br/>
 
@@ -119,15 +113,70 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=skeg-16&theme=tokyonight-duo&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&background=0F172A&dates=64748B&stroke=1E293B)
 
-<br/><br/>
+<br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skeg-16&theme=high-contrast&color=38BDF8&line=38BDF8&point=ffffff&hide_border=true&area=true&area_color=1E3A5F&bg_color=0F172A)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+<br/>
+
+<div align="center"><img src="./divider.svg" width="100%"/></div>
+
+<br/>
+
+## &nbsp;Contribution Snake
+
+<!-- Snake is auto-generated by GitHub Actions. See setup note at top of file. -->
+
+<div align="center">
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake animation"
+    src="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake-dark.svg"
+    width="100%"/>
+</picture>
 
 <br/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+<div align="center"><img src="./divider.svg" width="100%"/></div>
+
+<br/>
+
+## &nbsp;Coding Activity
+
+<!-- WakaTime stats — auto-updated by GitHub Actions. See setup note at top of file. -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
+<div align="center"><img src="./divider.svg" width="100%"/></div>
+
+<br/>
+
+## &nbsp;Now Playing
+
+<!-- Spotify widget — deploy novatorem then replace YOUR_VERCEL_URL below. -->
+
+<div align="center">
+
+<br/>
+
+[![Spotify](https://novatorem-YOUR_VERCEL_URL.vercel.app/api/spotify)](https://open.spotify.com/user/)
+
+<br/>
+
+</div>
+
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 <br/>
 
@@ -137,7 +186,7 @@
 
 <br/>
 
-<p>Open to collaborations, freelance projects, and professional conversations. Let's build something meaningful.</p>
+<p>Open to collaborations, freelance projects, and professional conversations.<br/>Let's build something meaningful.</p>
 
 <br/>
 
@@ -147,8 +196,13 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skeg-16)
 
-<br/><br/>
+<br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0F172A&height=120&section=footer&animation=twinkling" width="100%"/>
+<div align="center">
+  <img src="./divider.svg" width="100%"/>
+  <br/><br/>
+  <sub>Built with precision. Maintained with discipline.</sub>
+  <br/><br/>
+</div>
