@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="SKEG-16"/>
+  <img src="./header (1).svg" width="100%" alt="SKEG-16"/>
 </div>
 
 <div align="center">
@@ -20,34 +20,40 @@
 
 <br/>
 
-<table><tr><td width="52%" valign="top">
+<table border="0" cellspacing="0" cellpadding="12"><tr>
+<td width="38%" valign="top">
 
-**Shawn Kieffer Goyena** — CS student from Manila, PH on the path to becoming a full-stack developer. Driven by clean architecture, purposeful code, and the discipline to keep going when it gets hard.
+![Name](https://img.shields.io/badge/Shawn%20Kieffer%20Goyena-1A0F2E?style=flat-square&labelColor=3B0764&label=◈&color=1A0F2E)
 
-Open to **collaborations**, **internships**, and **dev roles**.
+![Location](https://img.shields.io/badge/Manila%2C%20Philippines-1A0F2E?style=flat-square&labelColor=3B0764&label=📍&color=1A0F2E)
+
+![Status](https://img.shields.io/badge/CS%20Student-1A0F2E?style=flat-square&labelColor=3B0764&label=🎓&color=1A0F2E)
+
+![Focus 1](https://img.shields.io/badge/Full--Stack%20Development-1A0F2E?style=flat-square&labelColor=3B0764&label=💻&color=1A0F2E)
+
+![Focus 2](https://img.shields.io/badge/Database%20Architecture-1A0F2E?style=flat-square&labelColor=3B0764&label=🗄️&color=1A0F2E)
+
+![Focus 3](https://img.shields.io/badge/System%20Design-1A0F2E?style=flat-square&labelColor=3B0764&label=⚙️&color=1A0F2E)
+
+<br/>
+
+![Open](https://img.shields.io/badge/Open%20to%20Opportunities-A855F7?style=for-the-badge&labelColor=3B0764)
+
+</td>
+<td width="4%"></td>
+<td width="58%" valign="top">
+
+CS student from Manila on the path to becoming a full-stack developer. I care about clean architecture, writing code that makes sense, and building things that actually work.
+
+I approach every project with the same mindset — understand the problem first, then write the solution. No shortcuts, no spaghetti.
+
+<br/>
 
 > *"The strongest version of yourself is built in the dark —*
 > *failed builds, slow progress, and the grind you almost gave up on."*
 
-</td><td width="4%"></td><td width="44%" valign="top">
-
-```yaml
-alias    : skeg-16
-location : Manila, PH
-status   : CS Student
-
-focus:
-  - Full-Stack Development
-  - Database Architecture
-  - System Design
-
-open_to:
-  - Collaborations
-  - Internships
-  - Dev Roles
-```
-
-</td></tr></table>
+</td>
+</tr></table>
 
 <br/>
 
@@ -57,17 +63,13 @@ open_to:
 
 <div align="center">
 
-![Languages](https://img.shields.io/badge/Languages-3B0764?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-3B0764?style=flat-square&labelColor=3B0764)
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,python,java,c,kotlin&theme=dark&perline=7)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,python,java,c,kotlin&theme=dark&perline=7)](https://skillicons.dev)
 
-![Databases](https://img.shields.io/badge/Databases-3B0764?style=flat-square)
+![DB and Tools](https://img.shields.io/badge/Databases%20%26%20Tools-3B0764?style=flat-square&labelColor=3B0764)
 
-[![Databases](https://skillicons.dev/icons?i=mysql,postgresql,supabase&theme=dark&perline=7)](https://skillicons.dev)
-
-![Tools](https://img.shields.io/badge/Tools%20%26%20Environment-3B0764?style=flat-square)
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=7)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=mysql,postgresql,supabase,git,github,vscode,linux&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
 
@@ -96,11 +98,17 @@ open_to:
 <br/>
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skeg-16&bg_color=0F0A1E&color=C084FC&line=A855F7&point=E9D5FF&area=true&area_color=3B0764&hide_border=true" width="100%"/>
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
+
 </div>
 
 <br/>
