@@ -1,191 +1,176 @@
 <div align="center">
-  <img src="./header (1).svg" width="100%" alt="SKEG-16"/>
+  <img src="./header.svg" width="100%" alt="SKEG-16"/>
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&pause=2000&color=A855F7&center=true&vCenter=true&width=700&height=26&lines=Full-Stack+Developer+%7C+Manila%2C+PH;Clean+Code+%7C+Database+Design+%7C+Architecture;Building+with+purpose+%E2%80%94+one+commit+at+a+time)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=skeg-16&color=A855F7&style=flat-square&label=VIEWS)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/skeg-16?style=flat-square&color=A855F7&labelColor=1A0F2E&label=FOLLOWERS)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/skeg-16?style=flat-square&color=A855F7&labelColor=1A0F2E&label=STARS)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20ABOUT%20ME&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
-
-<br/>
-
-<table border="0" cellspacing="0" cellpadding="12"><tr>
-<td width="38%" valign="top">
-
-![Name](https://img.shields.io/badge/Shawn%20Kieffer%20Goyena-1A0F2E?style=flat-square&labelColor=3B0764&label=◈&color=1A0F2E)
-
-![Location](https://img.shields.io/badge/Manila%2C%20Philippines-1A0F2E?style=flat-square&labelColor=3B0764&label=📍&color=1A0F2E)
-
-![Status](https://img.shields.io/badge/CS%20Student-1A0F2E?style=flat-square&labelColor=3B0764&label=🎓&color=1A0F2E)
-
-![Focus 1](https://img.shields.io/badge/Full--Stack%20Development-1A0F2E?style=flat-square&labelColor=3B0764&label=💻&color=1A0F2E)
-
-![Focus 2](https://img.shields.io/badge/Database%20Architecture-1A0F2E?style=flat-square&labelColor=3B0764&label=🗄️&color=1A0F2E)
-
-![Focus 3](https://img.shields.io/badge/System%20Design-1A0F2E?style=flat-square&labelColor=3B0764&label=⚙️&color=1A0F2E)
-
-<br/>
-
-![Open](https://img.shields.io/badge/Open%20to%20Opportunities-A855F7?style=for-the-badge&labelColor=3B0764)
-
-</td>
-<td width="4%"></td>
-<td width="58%" valign="top">
-
-CS student from Manila on the path to becoming a full-stack developer. I care about clean architecture, writing code that makes sense, and building things that actually work.
-
-I approach every project with the same mindset — understand the problem first, then write the solution. No shortcuts, no spaghetti.
-
-<br/>
-
-> *"The strongest version of yourself is built in the dark —*
-> *failed builds, slow progress, and the grind you almost gave up on."*
-
-</td>
-</tr></table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20TECH%20STACK&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-![Languages](https://img.shields.io/badge/Languages-3B0764?style=flat-square&labelColor=3B0764)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&pause=2000&color=FF4DA6&center=true&vCenter=true&width=700&height=30&lines=Full-Stack+Developer+%7C+Manila%2C+PH;Clean+Code+%7C+Database+Design+%7C+Architecture;Building+with+purpose+%E2%80%94+one+commit+at+a+time)](https://git.io/typing-svg)
 
-[![](https://skillicons.dev/icons?i=html,css,js,python,java,c,kotlin&theme=dark&perline=7)](https://skillicons.dev)
+<br/>
 
-![DB and Tools](https://img.shields.io/badge/Databases%20%26%20Tools-3B0764?style=flat-square&labelColor=3B0764)
-
-[![](https://skillicons.dev/icons?i=mysql,postgresql,supabase,git,github,vscode,linux&theme=dark&perline=7)](https://skillicons.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=skeg-16&color=FF0066&style=flat-square&label=VIEWS)
+&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/skeg-16?style=flat-square&color=FF0066&labelColor=1A0010&label=FOLLOWERS)
+&nbsp;&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/skeg-16?style=flat-square&color=FF0066&labelColor=1A0010&label=STARS)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20GITHUB%20STATS&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 <br/>
+
+## &nbsp;About Me
+
+```
+$ whoami
+
+  ┌──────────────────────────────────────────────────────────────┐
+  │  Shawn Kieffer Goyena  ·  skeg-16  ·  Manila, Philippines   │
+  │  Computer Science Student → Aspiring Full-Stack Developer    │
+  └──────────────────────────────────────────────────────────────┘
+
+$ cat focus.txt
+
+  ▸  Full-Stack Web Development
+  ▸  Database Design & Architecture
+  ▸  System Design & Clean Code Practices
+  ▸  Software Engineering Fundamentals
+
+$ cat availability.txt
+
+  Open to: Project Collaborations · Open Source · Internships & Dev Roles
+
+$ cat philosophy.txt
+
+  "The strongest version of yourself is built in the dark —
+   failed builds, slow progress, and the grind you almost gave up on."
+```
+
+<br/>
+
+<div align="center"><img src="./divider.svg" width="100%"/></div>
+
+<br/>
+
+## &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=skeg-16&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=A855F7&icon_color=A855F7&bg_color=0F0A1E&text_color=CBD5E1&ring_color=A855F7" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeg-16&layout=compact&hide_border=true&langs_count=8&title_color=A855F7&bg_color=0F0A1E&text_color=CBD5E1" height="160"/>
+<br/>
+
+<sub>LANGUAGES</sub>
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,c,kotlin&perline=7&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=skeg-16&theme=tokyonight-duo&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&background=0F0A1E&dates=64748B&stroke=1A0F2E"/>
+<sub>DATABASES</sub>
+
+[![Skills](https://skillicons.dev/icons?i=mysql,postgresql,supabase&perline=7&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+<sub>TOOLS & ENVIRONMENT</sub>
+
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&perline=7&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+</div>
+
+<div align="center"><img src="./divider.svg" width="100%"/></div>
+
+<br/>
+
+## &nbsp;GitHub Stats
+
+<div align="center">
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=skeg-16&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=FF0066&icon_color=FF4DA6&bg_color=0D0008&text_color=FFB3D1&ring_color=FF0066" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeg-16&layout=compact&hide_border=true&langs_count=8&title_color=FF0066&bg_color=0D0008&text_color=FFB3D1" height="175"/>
+
+<br/><br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=skeg-16&theme=tokyonight-duo&hide_border=true&ring=FF0066&fire=FF4DA6&currStreakLabel=FF0066&sideLabels=FF4DA6&background=0D0008&dates=6B2140&stroke=2D0018)
+
+<br/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20CONTRIBUTION%20ACTIVITY&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 <br/>
 
-<div align="center">
+## &nbsp;Contribution Snake
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skeg-16&bg_color=0F0A1E&color=C084FC&line=A855F7&point=E9D5FF&area=true&area_color=3B0764&hide_border=true" width="100%"/>
+<div align="center">
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake animation"
+    src="https://raw.githubusercontent.com/skeg-16/skeg-16/output/github-contribution-grid-snake-dark.svg"
+    width="100%"/>
 </picture>
+
+<br/>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20CODING%20ACTIVITY&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 <br/>
+
+## &nbsp;Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-🌆 Daytime                86 commits          ██████████░░░░░░░░░░░░░░░   41.55 % 
-🌃 Evening                75 commits          █████████░░░░░░░░░░░░░░░░   36.23 % 
-🌙 Night                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Wednesday                53 commits          ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-Thursday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Friday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Saturday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Sunday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 05/04/2026 02:46:52 UTC
 <!--END_SECTION:waka-->
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20NOW%20PLAYING&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 <br/>
 
+## &nbsp;Now Playing
+
 <div align="center">
 
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=313yvdam4tmxx53ypd7gwvxfkt7i)](https://spotify-recently-played-readme.vercel.app/api?user=313yvdam4tmxx53ypd7gwvxfkt7i)
+<br/>
+
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31hngubuqecysvwavbamccnwwaim)](https://open.spotify.com/user/31hngubuqecysvwavbamccnwwaim)
+
+<br/>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F2E&height=45&text=◈%20CONNECT&fontSize=22&fontColor=C084FC&fontAlign=50&fontAlignY=62&stroke=A855F7&strokeWidth=1" width="100%"/>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 <br/>
+
+## &nbsp;Connect
 
 <div align="center">
 
+<br/>
+
 <p>Open to collaborations, freelance projects, and professional conversations.<br/>Let's build something meaningful.</p>
+
+<br/>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/g.shawnkieffergoyena)
 &nbsp;
@@ -193,14 +178,13 @@ No Activity Tracked This Week
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skeg-16)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL_HERE)
-&nbsp;
-[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](YOUR_TIKTOK_URL_HERE)
-&nbsp;
-[![Facebook Page](https://img.shields.io/badge/Facebook_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FB_PAGE_URL_HERE)
-
 <br/>
 
-<sub>Built with precision. Maintained with discipline.</sub>
+</div>
 
+<div align="center">
+  <img src="./divider.svg" width="100%"/>
+  <br/><br/>
+  <sub>Built with precision. Maintained with discipline.</sub>
+  <br/><br/>
 </div>
