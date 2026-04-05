@@ -118,40 +118,51 @@ I approach every project with the same mindset — understand the problem first,
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-A855F7?style=flat-square&labelColor=1A0F2E)
-&nbsp;
-![Profile Views](http://img.shields.io/badge/Profile%20Views-87-A855F7?style=flat-square&labelColor=1A0F2E)
-&nbsp;
-![Night Owl](https://img.shields.io/badge/🦉%20Night%20Owl-A855F7?style=flat-square&labelColor=1A0F2E)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue?style=flat)
 
-```text
-🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-🌆 Daytime                86 commits          ███████████░░░░░░░░░░░░░░   45.99 %
-🌃 Evening                75 commits          ██████████░░░░░░░░░░░░░░░   40.11 %
-🌙 Night                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-```
-
-![Most Active](https://img.shields.io/badge/📅%20Most%20Active-Wednesday-A855F7?style=flat-square&labelColor=1A0F2E)
+**I'm a Night 🦉** 
 
 ```text
-Monday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.72 %
-Tuesday                  20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-Wednesday                53 commits          ███████░░░░░░░░░░░░░░░░░░   28.34 %
-Thursday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
-Friday                   27 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
-Saturday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Sunday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+🌆 Daytime                86 commits          ██████████░░░░░░░░░░░░░░░   41.55 % 
+🌃 Evening                75 commits          █████████░░░░░░░░░░░░░░░░   36.23 % 
+🌙 Night                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
 ```
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-💬 Languages:    No Activity Tracked This Week
-🔥 Editor:       No Activity Tracked This Week
-🐱‍💻 Project:     No Activity Tracked This Week
-💻 OS:           No Activity Tracked This Week
+Monday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Wednesday                53 commits          ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+Thursday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Friday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Saturday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Sunday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
 ```
 
-Last Updated on 04/04/2026 16:39:01 UTC
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 05/04/2026 02:46:52 UTC
 <!--END_SECTION:waka-->
 
 <br/>
