@@ -122,55 +122,8 @@ I approach every project with the same mindset — understand the problem first,
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-🌆 Daytime                95 commits          █████████░░░░░░░░░░░░░░░░   34.55 % 
-🌃 Evening                106 commits         ██████████░░░░░░░░░░░░░░░   38.55 % 
-🌙 Night                  68 commits          ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   47 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Tuesday                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Wednesday                63 commits          ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-Thursday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Friday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Saturday                 21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Sunday                   50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-JavaScript               1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   34.56 % 
-HTML                     1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-CSS                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Python                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Real_Estate_website#1    2 hrs 54 mins       █████████████████░░░░░░░░   67.65 % 
-chungus-lang             1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-FinSight-1               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-mrkr-website             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-MRKR                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-
-💻 Operating System: 
-Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 13/05/2026 03:41:02 UTC
+ Last Updated on 14/05/2026 03:40:11 UTC
 <!--END_SECTION:waka-->
 
 <br/>
