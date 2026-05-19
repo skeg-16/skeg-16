@@ -118,10 +118,59 @@ I approach every project with the same mindset — understand the problem first,
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2026%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 18/05/2026 03:57:23 UTC
+```text
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+🌆 Daytime                99 commits          ████████░░░░░░░░░░░░░░░░░   33.79 % 
+🌃 Evening                118 commits         ██████████░░░░░░░░░░░░░░░   40.27 % 
+🌙 Night                  69 commits          ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   47 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Tuesday                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Wednesday                69 commits          ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Thursday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Saturday                 23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Sunday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+JavaScript               5 hrs 13 mins       ███████████████░░░░░░░░░░   60.12 % 
+HTML                     2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+Python                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+CSS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+
+🔥 Editors: 
+VS Code                  8 hrs 41 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Real_Estate_website#3    3 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.21 % 
+Real_Estate_website#1    2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+Real_Estate_website#2    1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Research Writing_Rabin Ka43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+mrkr-website             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+
+💻 Operating System: 
+Windows                  8 hrs 41 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 19/05/2026 03:51:49 UTC
 <!--END_SECTION:waka-->
 
 <br/>
