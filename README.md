@@ -120,7 +120,7 @@ I approach every project with the same mindset — understand the problem first,
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -149,22 +149,21 @@ Sunday                   83 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    24 mins             ████████████████░░░░░░░░░   65.30 % 
-JSON                     12 mins             ████████░░░░░░░░░░░░░░░░░   33.31 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Other                    14 mins             ████████████████████████░   96.57 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CSS System               37 mins             █████████████████████████   100.00 % 
+CSS System               15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/06/2026 04:02:59 UTC
+ Last Updated on 06/06/2026 03:45:18 UTC
 <!--END_SECTION:waka-->
 
 <br/>
