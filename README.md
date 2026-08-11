@@ -151,26 +151,51 @@ Sunday                   94 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 50 mins       ███████████████░░░░░░░░░░   61.96 % 
+HTML                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          3 hrs 15 mins       ██████████████████░░░░░░░   70.74 % 
+VS Code                  1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   29.26 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Pamana                   3 hrs 49 mins       █████████████████████░░░░   83.33 % 
+Pao                      45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 12 mins (91.37%)
+
+✍️ 266 lines written by AI, 28 lines written by hand (90.48% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 80 AI Prompts
+
+Gemini                   337 lines           ████████████████████░░░░░   78.74 % 
+Antigravity-Ide          46 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Opus                     44 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Sonnet                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 90.48% of written lines came from AI
+📝 Concise Prompter — average 203 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 8.35% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/08/2026 01:58:58 UTC
+ Last Updated on 11/08/2026 01:54:35 UTC
 <!--END_SECTION:waka-->
 
 <br/>
