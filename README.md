@@ -118,9 +118,9 @@ I approach every project with the same mindset — understand the problem first,
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -151,28 +151,28 @@ Sunday                   94 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               2 hrs 50 mins       ███████████████░░░░░░░░░░   61.96 % 
-HTML                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+TypeScript               2 hrs 43 mins       ███████████████░░░░░░░░░░   60.52 % 
+HTML                     46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 15 mins       ██████████████████░░░░░░░   70.74 % 
-VS Code                  1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+Antigravity IDE          3 hrs 2 mins        █████████████████░░░░░░░░   67.48 % 
+VS Code                  1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   32.52 % 
 
 🐱‍💻 Projects: 
-Pamana                   3 hrs 49 mins       █████████████████████░░░░   83.33 % 
-Pao                      45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Pamana                   3 hrs 36 mins       ████████████████████░░░░░   80.34 % 
+Pao                      53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
 
 💻 Operating System: 
-Windows                  4 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 12 mins (91.37%)
+⏱ AI Coding Time: 4 hrs 2 mins (89.65%)
 
 ✍️ 266 lines written by AI, 28 lines written by hand (90.48% AI-written)
 
@@ -180,22 +180,21 @@ Windows                  4 hrs 35 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 80 AI Prompts
+🧠 6 AI Sessions, 75 AI Prompts
 
-Gemini                   337 lines           ████████████████████░░░░░   78.74 % 
-Antigravity-Ide          46 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Opus                     44 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Sonnet                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Gemini                   337 lines           ████████████████████░░░░░   78.92 % 
+Antigravity-Ide          46 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Opus                     44 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 90.48% of written lines came from AI
-📝 Concise Prompter — average 203 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 8.35% of changed lines were hand-edited
+📝 Concise Prompter — average 211 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 8.37% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 01:54:35 UTC
+ Last Updated on 12/08/2026 02:07:27 UTC
 <!--END_SECTION:waka-->
 
 <br/>
