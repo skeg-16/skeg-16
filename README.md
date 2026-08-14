@@ -151,28 +151,28 @@ Sunday                   94 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-HTML                     46 mins             ██████████░░░░░░░░░░░░░░░   40.07 % 
-TypeScript               32 mins             ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-JavaScript               25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-SQL                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+HTML                     46 mins             ███████████░░░░░░░░░░░░░░   43.69 % 
+JavaScript               25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+TypeScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+SQL                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        ███████████████████░░░░░░   75.78 % 
-Antigravity IDE          28 mins             ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+VS Code                  1 hr 27 mins        █████████████████████░░░░   82.63 % 
+Antigravity IDE          18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
 
 🐱‍💻 Projects: 
-Pamana                   1 hr 9 mins         ███████████████░░░░░░░░░░   59.93 % 
-Pao                      46 mins             ██████████░░░░░░░░░░░░░░░   40.07 % 
+Pamana                   59 mins             ██████████████░░░░░░░░░░░   56.31 % 
+Pao                      46 mins             ███████████░░░░░░░░░░░░░░   43.69 % 
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (75.89%)
+⏱ AI Coding Time: 1 hr 18 mins (73.71%)
 
 ✍️ 90 lines written by AI, 28 lines written by hand (76.27% AI-written)
 
@@ -180,20 +180,20 @@ Windows                  1 hr 55 mins        ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 42 AI Prompts
+🧠 4 AI Sessions, 38 AI Prompts
 
 Antigravity-Ide          46 lines            █████████████░░░░░░░░░░░░   51.11 % 
 Opus                     44 lines            ████████████░░░░░░░░░░░░░   48.89 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 76.27% of written lines came from AI
-📝 Concise Prompter — average 285 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 300 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 30.23% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 02:09:18 UTC
+ Last Updated on 14/08/2026 02:07:09 UTC
 <!--END_SECTION:waka-->
 
 <br/>
