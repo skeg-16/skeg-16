@@ -151,49 +151,45 @@ Sunday                   94 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-HTML                     46 mins             ███████████░░░░░░░░░░░░░░   43.69 % 
-JavaScript               25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-TypeScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-SQL                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+HTML                     46 mins             ██████████████████████░░░   87.78 % 
+TypeScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████░░░░   82.63 % 
-Antigravity IDE          18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+VS Code                  46 mins             ██████████████████████░░░   87.78 % 
+Antigravity IDE          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 
 🐱‍💻 Projects: 
-Pamana                   59 mins             ██████████████░░░░░░░░░░░   56.31 % 
-Pao                      46 mins             ███████████░░░░░░░░░░░░░░   43.69 % 
+Pao                      46 mins             ██████████████████████░░░   87.78 % 
+Pamana                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 
 💻 Operating System: 
-Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (73.71%)
+⏱ AI Coding Time: 24 mins (47.18%)
 
-✍️ 90 lines written by AI, 28 lines written by hand (76.27% AI-written)
+✍️ 4 lines written by AI, 28 lines written by hand (12.5% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 38 AI Prompts
+🧠 3 AI Sessions, 24 AI Prompts
 
-Antigravity-Ide          46 lines            █████████████░░░░░░░░░░░░   51.11 % 
-Opus                     44 lines            ████████████░░░░░░░░░░░░░   48.89 % 
+Opus                     4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.27% of written lines came from AI
-📝 Concise Prompter — average 300 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 30.23% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 12.5% of written lines came from AI
+📝 Concise Prompter — average 445 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 90.7% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 01:21:08 UTC
+ Last Updated on 16/08/2026 01:26:23 UTC
 <!--END_SECTION:waka-->
 
 <br/>
