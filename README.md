@@ -151,45 +151,40 @@ Sunday                   94 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-HTML                     46 mins             ██████████████████████░░░   87.78 % 
-TypeScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+HTML                     46 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  46 mins             ██████████████████████░░░   87.78 % 
-Antigravity IDE          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+VS Code                  46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Pao                      46 mins             ██████████████████████░░░   87.78 % 
-Pamana                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Pao                      46 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  46 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (47.18%)
+⏱ AI Coding Time: 18 mins (39.82%)
 
-✍️ 4 lines written by AI, 28 lines written by hand (12.5% AI-written)
+✍️ 0 lines written by AI, 28 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 24 AI Prompts
-
-Opus                     4 lines             █████████████████████████   100.00 % 
+🧠 2 AI Sessions, 22 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.5% of written lines came from AI
-📝 Concise Prompter — average 445 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 90.7% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 479 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/08/2026 01:26:23 UTC
+ Last Updated on 17/08/2026 01:23:24 UTC
 <!--END_SECTION:waka-->
 
 <br/>
