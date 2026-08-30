@@ -31,11 +31,13 @@
 
 Somewhere between a finance textbook and a broken build, I found my thing: **turning messy, complicated problems into products people actually want to use.**
 
-I'm a **4th-year Computer Science student at Pamantasan ng Lungsod ng Maynila**, but honestly, my real major is *curiosity* — split between software, business, and whatever weird idea I'm testing that week.
+I'm a **4th-year Computer Science student at Pamantasan ng Lungsod ng Maynila**, with a background that sits right at the crossroads of **software development, financial strategy, and digital marketing** — which probably explains why I care as much about whether people *use* something as I do about how it's built.
 
-Give me a spreadsheet-and-duct-tape process and I'll want to rebuild it as a real system. That's how **FinSight** happened — a full accounting platform born from watching people suffer through manual bookkeeping. Give me a boring rule I have to follow and I'll want to know *why* it exists — that's how **CHUNGUS**, my own programming language, happened.
+I build with **HTML, CSS, JavaScript, Java, and React**, focused on SaaS and accessible digital solutions that solve real problems for people who actually need them — **Otter Digitals, Ottermart, an NBI queue management system,** and **CHUNGUS**, my own programming language, are the proof.
 
-I'm not chasing lines of code. I'm chasing the moment an idea turns into something someone can actually click, use, and trust.
+Off-screen, I wear a few more hats: **Chief Marketing Officer** at Otter Software Systems, **Public Relations Officer** for PLM CISTM, **Senior Financial Wealth Planner**, and freelance **Social Media Manager**. Different rooms, same instinct — understand the market first, then build something it actually needs.
+
+I'm not chasing lines of code. I'm chasing the moment an idea turns into something someone can click, use, and trust.
 
 </td>
 
@@ -43,7 +45,11 @@ I'm not chasing lines of code. I'm chasing the moment an idea turns into somethi
 
 <div align="center">
 
-<img src="./githubpic.jpg" width="220" style="border-radius:50%; border:3px solid #A855F7;" alt="Shawn Kieffer Goyena"/>
+<div style="display:inline-block; padding:6px; background:linear-gradient(135deg, #E9D5FF, #A855F7, #6D28D9, #3B0764); border-radius:50%; box-shadow:0 0 24px rgba(168,85,247,0.55);">
+  <div style="padding:4px; background:#0F0A1E; border-radius:50%;">
+    <img src="./githubpic.jpg" width="300" style="border-radius:50%; border:2px solid #C084FC; display:block;" alt="Shawn Kieffer Goyena"/>
+  </div>
+</div>
 
 <br/>
 
@@ -73,7 +79,22 @@ I'm not chasing lines of code. I'm chasing the moment an idea turns into somethi
 
 ### ◈ HOW I THINK
 
-**UNDERSTAND** — *every build starts with the right question.*  ·  **BUILD** — *an idea means nothing until it runs.*  ·  **BREAK** — *if it survives without breaking, I haven't tested enough.*  ·  **REFINE** — *version one is a draft, not a destination.*  ·  **CONNECT** — *tech is only as good as the people it serves.*
+<br/>
+
+**UNDERSTAND**
+*every build starts with the right question.*
+
+**BUILD**
+*an idea means nothing until it runs.*
+
+**BREAK**
+*if it survives without breaking, I haven't tested enough.*
+
+**REFINE**
+*version one is a draft, not a destination.*
+
+**CONNECT**
+*tech is only as good as the people it serves.*
 
 </div>
 
@@ -110,21 +131,52 @@ I'm not chasing lines of code. I'm chasing the moment an idea turns into somethi
 
 <td width="50%" valign="top">
 
-### 💠 FinSight
+### ◆ Ottermart
 
-**An integrated accounting platform, built because manual bookkeeping shouldn't still be a thing.**
+**A university marketplace built for student hustlers.**
 
-FinSight takes the spreadsheet-and-receipts chaos small businesses deal with and turns it into a real, web-based system — tracking transactions, generating reports, and giving people numbers they can actually trust.
+Ottermart is where students buy, sell, and hustle within their own campus community — a dedicated space for student-run businesses to actually reach the people around them, instead of getting lost on random Facebook groups.
 
-`React` `Node.js` `PostgreSQL` `Full-Stack`
+`React` `JavaScript` `Full-Stack`
 
-[**View Repository →**](YOUR_FINSIGHT_REPO_URL_HERE)
+[**View Repository →**](YOUR_OTTERMART_REPO_URL_HERE)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💠 CHUNGUS
+### ◆ NBI Queue Management System
+
+**A digital fix for one of the most notorious lines in the Philippines.**
+
+Built to cut down real-world waiting and confusion by digitizing queue tracking — turning a manual, chaotic process into something structured and predictable.
+
+`Java` `System Design` `Public Service`
+
+[**View Repository →**](YOUR_NBI_QUEUE_REPO_URL_HERE)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### ◆ Otter Digitals
+
+**Think iLovePDF — but better, and without the paywall.**
+
+A PDF toolkit built to do what the big-name tools do (and more), minus the constant upsells. Premium features, free access — because good utility software shouldn't be locked behind a subscription.
+
+`Product` `SaaS` `Digital Strategy`
+
+[**View Repository →**](YOUR_OTTERDIGITALS_REPO_URL_HERE)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◆ CHUNGUS
 
 **A custom-built programming language — because the best way to understand the rules is to write them yourself.**
 
