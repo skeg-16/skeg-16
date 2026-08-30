@@ -43,19 +43,16 @@ I'm not chasing lines of code. I'm chasing the moment an idea turns into somethi
 
 <div align="center">
 
-### ◈ HOW I THINK
+<img src="./githubpic.jpg" width="220" style="border-radius:50%; border:3px solid #A855F7;" alt="Shawn Kieffer Goyena"/>
 
 <br/>
 
-**UNDERSTAND** — *every build starts with the right question.*
+### SHAWN KIEFFER GOYENA
 
-**BUILD** — *an idea means nothing until it runs.*
+**Full-Stack Developer**
+*Manila, Philippines*
 
-**BREAK** — *if it survives without breaking, I haven't tested enough.*
-
-**REFINE** — *version one is a draft, not a destination.*
-
-**CONNECT** — *tech is only as good as the people it serves.*
+`Software` · `Business` · `Creativity`
 
 </div>
 
@@ -69,6 +66,14 @@ I'm not chasing lines of code. I'm chasing the moment an idea turns into somethi
 > **A developer who only writes code builds features.**
 > **A developer who understands the problem builds something people actually need.**
 > **I'm trying to be the second kind.**
+
+</div>
+
+<div align="center">
+
+### ◈ HOW I THINK
+
+**UNDERSTAND** — *every build starts with the right question.*  ·  **BUILD** — *an idea means nothing until it runs.*  ·  **BREAK** — *if it survives without breaking, I haven't tested enough.*  ·  **REFINE** — *version one is a draft, not a destination.*  ·  **CONNECT** — *tech is only as good as the people it serves.*
 
 </div>
 
